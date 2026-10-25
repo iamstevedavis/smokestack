@@ -1,6 +1,6 @@
 [project]
 name = "smokestack"
-version = "0.1.0"
+version = "0.2.0"
 description = "Smokestack: self-hosted dashboard and alerts for Pit Boss pellet grills"
 license = "AGPL-3.0-or-later"
 license-files = ["LICENSE"]
